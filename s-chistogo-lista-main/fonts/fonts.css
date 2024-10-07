@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "EB Garamond";
+    src: url("../fonts/ebgaramondregular.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Inter";
+    src: url("../fonts/interregular.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
